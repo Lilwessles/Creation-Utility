@@ -1,8 +1,35 @@
-# What is Creation Utility?
-Creation Utility is a tool designed to speed of the workflow of people who use template projects for Premiere Pro. A template project is a project that has stuff in it you use for every project, so that all you have to do is clone that file and you have everything ready. Creation Utility enhances that workflow by making it simple to set a name, source, and destination and with one button it does the hard work for you.
+# Creation Utility
+Creation Utility is a workflow tool designed to speed up Premiere Pro template-based editing. If you regularly use a base Premiere Pro project for every edit, Creation Utility helps automate the setup process — letting you generate a new project in seconds with a consistent structure.
+**Instead of manually:**
+- Copying a template project
+- Renaming files
+- Moving folders
+- Opening supporting apps
+**Creation Utility lets you:**
+- Select a project name
+- Choose a Premiere Pro template (.prproj file)
+- Pick an output location
+- Create the full project setup in one click
 
 # How to use Creation Utility
-Creation Utility is built to be straightforward. You first set a name for your project, then set the template file which will be a .prproj file. Lastly you set where you want your project to go and click create. Optionally you can also tick the checkbox labeled 'Open Bridge' to have the app automatically open Adobe Bridge alongside Premiere Pro when you create a project.
+1. Enter your project name
+2. Select your template (.prproj) file
+3. Choose the destination folder
+4. Click Create
+**Optional:**
+Enable Open Bridge to launch Adobe Bridge automatically
+
+That’s it — your project is ready to go.
 
 # Licensing
-Currently, Creation Utility does require a license, unfortunately that license is not able to be purchased quite yet, this project is for me and some friends, however I do plan on making this accessible to everyone. A Creation Utility license will be a one time, lifetime license as I do not like subscription-based apps. Each license will have a device limit for app activation, you can deactivate devices within the app. I do not plan on making Creation Utility expensive at all as it is just a utility.
+Creation Utility currently requires a license for activation. At the moment, licenses are limited and intended for personal use and a small group of users. A public release is planned in the future.
+Planned licensing model:
+- One-time purchase (no subscriptions)
+- Lifetime access
+- Device activation limits
+- Ability to deactivate devices within the app
+
+**Pricing and availability are not finalized yet.**
+
+# Notes
+This project is actively evolving. Features and workflow may change as the tool develops.
